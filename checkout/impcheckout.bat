@@ -1,0 +1,1 @@
+javac -cp "jars/*" implementation/Checkout.java
